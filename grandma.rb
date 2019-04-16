@@ -20,7 +20,8 @@ if gretting=='I LOVE YOU GRANDMA!'
   puts'HUH?! SPEAK UP, SONNY!'
   elsif gretting=='Hi!'
   puts'HUH?! SPEAK UP, SONNY!'
-  elsif phrase='WHAT DID YOU EAT TODAY?'
+  elsif phrase=='WHAT DID YOU EAT TODAY?'
   puts 'NO, NOT SINCE 1938!'
+  elsif phrase==''
   
 end
