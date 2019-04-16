@@ -13,6 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma
 gretting='I LOVE YOU GRANDMA!'
+phrase=''
 if gretting=='I LOVE YOU GRANDMA!'
   puts 'I LOVE YOU TOO PUMPKIN!'
   elsif gretting=='Hi Nana, how are you?'
