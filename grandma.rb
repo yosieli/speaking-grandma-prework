@@ -21,5 +21,6 @@ if gretting=='I LOVE YOU GRANDMA!'
   elsif gretting=='Hi!'
   puts'HUH?! SPEAK UP, SONNY!'
   elsif phrase='WHAT DID YOU EAT TODAY?'
-  puts ''
+  puts 'NO, NOT SINCE 1938!'
+  
 end
